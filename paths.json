@@ -5,6 +5,6 @@
     "/content/aem-boilerplate-test/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/dam/aem-boilerplate-test/assets:/assets"
+    "/content/dam/aem-boilerplate-test/assets"
   ]
 }
