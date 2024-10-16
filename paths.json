@@ -3,5 +3,8 @@
     "/content/aem-boilerplate-test/:/",
     "/content/aem-boilerplate-test/configuration:/.helix/config.json",
     "/content/aem-boilerplate-test/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/dam/aem-boilerplate-test/assets"
   ]
 }
