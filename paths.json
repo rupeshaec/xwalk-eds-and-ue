@@ -2,9 +2,10 @@
   "mappings": [
     "/content/aem-boilerplate-test/:/",
     "/content/aem-boilerplate-test/configuration:/.helix/config.json",
-    "/content/aem-boilerplate-test/metadata:/metadata.json"
+    "/content/aem-boilerplate-test/metadata:/metadata.json",
+    "/content/dam/aem-boilerplate-test/assets/:/assets/"
   ],
   "includes": [
-    "/content/dam/aem-boilerplate-test/assets"
+    "/content/dam/aem-boilerplate-test/assets/"
   ]
 }
